@@ -21,9 +21,7 @@ pipeline {
             
         }
         stage ('Testing Stage') {
-            steps {
-            	
-            }
+     
         }
         stage('Image Build'){
         	steps {
